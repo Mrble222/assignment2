@@ -2,7 +2,7 @@
 
 ## 1. Great Expectations Validation Results
 
-![[Pasted image 20260626233003.png]]
+![](images/validation.png)
 
 ## 2. Data Quality Issues Found
 
@@ -24,7 +24,7 @@ The expectation suite `customer_data_expectations` was run against `customer_dat
 
 ## 3. pytest Execution Results
 
-![[Screenshot 2026-06-26 at 11.27.39 PM.png]]
+![](images/Screenshot_test.png)
 
 
 ## 4. Reflection: Most Impactful Data Quality Issue on ML Model Performance
